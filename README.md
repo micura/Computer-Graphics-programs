@@ -12,10 +12,10 @@ These programs are made for a computer graphics subject.
       <td><img src="/Ball%20game/Screenshot.jpg" width="200"</td>
       <td><img src="/The%20four%20balls/Screenshot.jpg" width="200"></td>
       <td><img src="/Cube%20projection/Screenshot.jpg" width="200"></td>
-      <td><img src="/Curves%20v2/Screenshot.jpg" width="200"></td>
+      <td><img src="/Curves%20v2.0/Screenshot.jpg" width="200"></td>
   </tr>
   <tr>
-      <td><img src="/Curves/Screenshot.jpg" width="200"</td>
+      <td><img src="/Curves%20v1.0/Screenshot.jpg" width="200"</td>
       <td><img src="/Functions%20graph/Screenshot.jpg" width="200"></td>
       <td><img src="/Moving-ball/Screenshot.jpg" width="200"></td>
       <td><img src="/Shoot%20down%20the%20spaceship/Screenshot.jpg" width="200"></td>
