@@ -5,7 +5,7 @@ These programs are made for a computer graphics subject.
 <p align="center">
   <img src="/The%20bowl/Screenshot.jpg" width="255">
   <img src="/The%20vase/Screenshot.jpg" width="350">
-  <img src="/Cube%20flower/Screenshot.jpg" width="255">
+  <img src="/Cube%20flower/Screenshot.jpg" width="250">
 </p>  
 <table>
   <tr>
